@@ -1,1 +1,1 @@
-Unzip the file, run the SQL file first, then go into /backend/main.py
+Unzip the file, run the SQL file within first, then go into /backend/main.py and run it
